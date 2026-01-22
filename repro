@@ -1,6 +1,0 @@
-local ex = regexp("");
-ex = regexp(@"\p|)");
-string = "123 Teso(omething(str, getTemp1);";
-res = ex.search(string);
-print(string.slice(res.begin,res.end)); //prin)"
-print("\n");
